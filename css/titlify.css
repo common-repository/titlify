@@ -1,0 +1,23 @@
+/*
+ * Titlify - Wordpress plugin
+ * Colorise your posts titles in a very easy way.
+ * Copyright (c) 2012 SAID ASSEMLAL
+ * That said, it is hardly a one-person project. Many people have submitted bugs, code, and offered their advice freely. Their support is greatly appreciated.
+ * Version: 1.0
+ * Dual licensed under the MIT and GPL licenses:
+ *   http://www.opensource.org/licenses/mit-license.php
+ *   http://www.gnu.org/licenses/gpl.html
+ */
+
+.titlify-metabox{
+	overflow: hidden;
+}
+
+.titlify-metabox .donate-box{
+
+} 
+
+.titlify-metabox .pickcolor-label{
+	display: block;
+	margin-bottom: 8px;
+}
